@@ -34,12 +34,12 @@ Analytical thinking, attention to detail, and problem-solving skills.
 
 ➜Collaboration and Communication:
 
-Effective teamwork, clear documentation, and stakeholder communication.
+Strong teamwork skills for effective collaboration with developers, cryptographers, and stakeholders.
 
-## 👀 Looking to collaboration with others in the space.  
+ *👀 Looking for collaboration with others in the space.*  
 
 
-## Thanks you for visiting my profile! Let's connect and make the crypto space even more exciting. Happy coding and happy trading! 🚀
+*Thanks you for visiting my profile! Let's connect and make the crypto space even more exciting. Happy coding and happy trading!* 🚀
 
 ---
 
