@@ -1,7 +1,5 @@
 
 
-# Hi, I'm Ultimate-Degen! Crypto enthusiast hoping to transform the crypto space. 👨🏻‍💻 #
-
 # 📜 Building on the scroll 📜 # 
 
 ## 📣 Project ElectraVote
