@@ -2,13 +2,13 @@
 
 # 📜 Building on the scroll 📜 # 
 
-## 📣 Project ElectraVote
+## 📣 PROJECTS: ElectraVote
 
  ElectraVote:
 
 ElectraVote leverages the Scroll zkEVM Layer 2 solution to ensure enhanced security and scalability through zero-knowledge proofs. Unlike traditional voting systems, ElectraVote offers immutable and transparent record-keeping, ensuring votes are tamper-proof and verifiable. Our novel approach combines the benefits of blockchain technology with privacy-preserving cryptographic techniques, making it suitable for large-scale elections, especially in regions with limited infrastructure.
 
-## 🧠 Skills 
+## 🧠 SKILLS
 
 ➜Blockchain Development:
 
@@ -36,7 +36,7 @@ Strong teamwork skills for effective collaboration with developers, cryptographe
 
  *👀 Looking for collaboration with others in the space.*  
 
- ## 🤝 Support
+ ## 🤝 SUPPORT
  
 If you find my projects useful and would like to support my work, you can donate to my crypto wallet:
 
