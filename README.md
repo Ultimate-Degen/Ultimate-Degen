@@ -1,6 +1,6 @@
 
 
-# 📜 Building on the scroll 📜 # 
+# 📜 Building on scroll 📜 # 
 
 ## 📣 PROJECTS: ElectraVote
 
