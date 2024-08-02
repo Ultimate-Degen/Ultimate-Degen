@@ -1,6 +1,6 @@
 
 
-# 📜 Building on scroll 📜 # 
+# 📜  # 
 
 ## 📣 PROJECTS: ElectraVote
 
@@ -45,7 +45,7 @@ If you find my projects useful and would like to support my work, you can donate
 
 
 🚀*Thanks you for visiting my profile! Let's connect and make the crypto space even more exciting. Happy coding and happy trading!* 🚀
-
+ # 📜 #
 ---
 
 
