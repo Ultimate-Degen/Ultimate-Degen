@@ -36,7 +36,7 @@ Strong teamwork skills for effective collaboration with developers, cryptographe
 
  *👀 Looking for collaboration with others in the space.*  
 
- 🤝 SUPPORT
+ 🤝 SUPPORT:
  
 If you find my projects useful and would like to support my work, you can donate to my crypto wallet:
 
