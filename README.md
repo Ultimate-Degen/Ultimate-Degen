@@ -1,4 +1,4 @@
-*waves* I'm Ultimate-Degen
+I'm Ultimate-Degen
 
 # 📜📜📜  # 
 
