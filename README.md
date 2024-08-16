@@ -2,7 +2,7 @@
 
 # 📜  # 
 
- **📣 PROJECTS: ElectraVote**
+ **📣 PROJECT- ElectraVote**
 
  ElectraVote:
 
