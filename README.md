@@ -1,6 +1,6 @@
 
 
-# 📜📜📜  # 
+# 📜  # 
 
  **📣 PROJECT- ElectraVote**
 
@@ -44,7 +44,7 @@ If you find my projects useful and would like to support my work, you can donate
  Ethereum (ETH): [0x49DE6d75b953B67DbB476DE6473fD00f2247aBe3]
 
 
- # 📜📜📜 #
+ # 📜 #
 ---
 
 
