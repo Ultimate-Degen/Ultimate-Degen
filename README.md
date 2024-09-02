@@ -1,7 +1,6 @@
 
 
-# 📜 # 
-scroll
+# 📜 # scroll
 
  **📣 PROJECT- ElectraVote**
 
